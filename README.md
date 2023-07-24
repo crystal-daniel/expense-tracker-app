@@ -14,8 +14,8 @@ I learnt about theming and how to change between light and dark modes
 
 I also learnt about building a responsive UI and how to render widgets according to the orientation and size of the screen
 
-<img src="https://github.com/crystal-daniel/expense-tracker-app/assets/133324551/1cc2e485-e28e-4a14-af51-f6c94c3dc330" height="500">
-<img src="https://github.com/crystal-daniel/expense-tracker-app/assets/133324551/a350e8d5-4165-40c6-90e5-a3d7283c3c3a" height="500">
+<img src="https://github.com/crystal-daniel/expense-tracker-app/assets/133324551/1cc2e485-e28e-4a14-af51-f6c94c3dc330" width="500">
+<img src="https://github.com/crystal-daniel/expense-tracker-app/assets/133324551/a350e8d5-4165-40c6-90e5-a3d7283c3c3a" width="500">
 
 And finally, I added the option to slide and delete expenses which also promts a small alert message which has a small 'undo' button which automatically brings back the deleted expense
 
